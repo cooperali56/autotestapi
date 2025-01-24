@@ -1,0 +1,8 @@
+name: xs
+testers: cooper
+host: https://cas.55haitao.com/api/login
+depend:
+  Authorization: TGT:aa93158e21bbd71a59bc686cd72471bc
+  ticket: 
+    U1Q6NTI3NGEyYzE5MjE5Yzk3ODMwYzgxOTRjOTg4OGUyZTIsOWE1YzdiOWY2YWU1NzYwMTA5YjAwN2M1NmI2YWJiY2Y=
+  userId:

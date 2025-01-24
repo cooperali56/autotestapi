@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","628","用例标题：搜索JKAI杰凯UP主","test_case.test_bilibili","Fri Aug 23 20:44:21 CST 2024","passed","Fri Aug 23 20:44:21 CST 2024","TestBilibili","test_bilibili_1","",""

@@ -1,0 +1,9 @@
+name: KOL Saas
+testers: cooper
+host: https://kol.test.55haitao.com
+depend:
+  Authorization: TGT:53f121ea4e2319aa4f8722c76a88cbcc
+  ticket: 
+    U1Q6NGY0OGVhZGQ4NDQzODI0YTY0N2M1MzAzODdhYjlkZmUsZDc4MWJkNjhkZDE4YmNjMzUxYWM3YmY2ZDBkMGUxNmU=
+  userId: 81760
+  '':

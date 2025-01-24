@@ -1,0 +1,44 @@
+report_name: "55海淘-接口自动化测试"
+
+Cas:
+  project_name: "中台-接口自动化"
+  tester_name: "lee"
+  store_host: "https://store.test.api.55haitao.com"
+  base_host: "https://esb-base.55haitao.com"
+  cas_host: "https://cp1.test.55haitao.com"
+
+LinkBux:
+  name: "LinkBux-接口自动化"
+  # 用于替换https://www.linkbux.com
+  host: "https://www.test.linkbux.com"
+
+shoplooks_web:
+  project_name: "shoplooksWeb-接口自动化"
+  tester_name: "linse"
+  test_host: "https://api.test.shoplooks.com"
+  pro_host: "https://api.shoplooks.com"
+
+shoplooks_app:
+  project_name: "shoplooksApp-接口自动化"
+  tester_name: "linse"
+  test_host: "https://sapi.test.shoplooks.com"
+  pro_host: "https://sapi.shoplooks.com"
+
+rewardoo:
+  project_name: "rewardoo-接口自动化"
+  tester_name: "ethen"
+  account_host: "https://account.test.rewardoo.com"
+  test_host: "https://admin.test.rewardoo.com"
+  pro_host: "https://admin.rewardoo.com"
+
+linkprefer:
+  project_name: linkprefer-接口自动化
+  tester_name: hu
+  test_host: https://api.test.linkprefer.com
+  pro_host: https://api.linkprefer.com
+
+partnerboost:
+  project_name: partnerboost-接口自动化
+  tester_name: ethen
+  test_host: https://app.test.partnerboost.com
+  pro_host: https://app.partnerboost.com

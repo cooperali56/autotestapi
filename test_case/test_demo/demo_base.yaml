@@ -1,0 +1,5 @@
+test_demo:
+  name: 55Test-接口测试
+  tester: cooper
+  host: https://kol.test.55haitao.com
+  auth: Auth:JDJ5JDEwJFlFdndJMWZONFd6TlcyaXhCRFpOU3VVMGZnekhFN3N0eTh2Q3gvN2hxN3lJN0V4eVVGNUUy
